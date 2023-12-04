@@ -1,0 +1,21 @@
+body{
+ padding: 0;
+ margin: 0;   
+}
+
+.container{
+    min-height: 100vh;
+}
+
+
+.container .row .col-4{
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 10px;
+    
+
+}
+.input{
+    width: 100%;
+    margin: 5px;
+}
